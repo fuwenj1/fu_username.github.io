@@ -16,9 +16,9 @@ encoding: "utf-8"
 favicon: favicon.png 
 
 
-repository: github_username/github_username.github.io
-github_url: https://github.com/github_username
-url: https://github_username.github.io
+repository: github_username/fu_username.github.io
+github_url: https://github.com/fu_username
+url: https://fu_username.github.io
 
 
 ## Gem
